@@ -1,6 +1,10 @@
 # gshop
 
-> A Vue.js project
+>一个Vue.js项目
+
+认没有添加依赖啊，下载完记得去项目目录里cmd运行npm install npm重新安装库文件node_modules哈  
+然后就能npm start
+运行啦
 
 ## Build Setup
 
@@ -16,6 +20,3 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
