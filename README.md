@@ -4,7 +4,7 @@
 
 >一个Vue.js项目
 
-默认没有添加依赖啊（忘了），下载完记得去项目目录里cmd运行npm install npm重新安装库文件node_modules哈  
+默认没有npm依赖记得npm install
 然后就能npm start
 运行啦
 
